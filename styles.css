@@ -15,7 +15,7 @@ body {
     padding-left: 80px;
     padding-right: 85px;
     background-color: #684BB1;
-    background-image: url(/images/bg-desktop.svg); 
+    background-image: url(\images/bg-desktop.svg); 
     background-position-x: center;
     background-size: cover;
 }
@@ -120,7 +120,7 @@ footer i:hover{
 @media(max-width: 1200px) {
     body{
         padding: 0 10vw;
-        background-image: url(/images/bg-mobile.svg); 
+        background-image: url(\images/bg-mobile.svg); 
         background-position-x: center;
         background-repeat: no-repeat;
         background-size:auto;
