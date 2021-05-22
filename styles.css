@@ -45,8 +45,8 @@ main div {
        
 }
 main img {
-    height:fit-content;
-    width:50vw;
+    height:auto;
+    width:48vw;
 }
 h1 {
     font-family: 'Poppins', sans-serif;
